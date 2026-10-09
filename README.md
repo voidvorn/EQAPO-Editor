@@ -353,3 +353,6 @@ auto_config_switch（自动切换）+ app_config_manager（应用配置）
         ▼
 应用到 EQTab → 写入 EQ APO → 生效
 ```
+## 许可证
+
+本项目代码由 AI 辅助生成，已采用 The Unlicense 协议贡献至公共领域，任何人都可自由使用。详见 [LICENSE](LICENSE) 文件。
